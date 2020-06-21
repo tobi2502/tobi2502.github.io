@@ -11,3 +11,5 @@ Charles Bronson war einer der großen charismatischen Filmstars, dessen Stoizism
 * schweigsam
 
 > We do not make films for critics because they don't pay to see them anyway.
+
+<img src="https://i.pinimg.com/236x/06/a3/1c/06a31cacfe0ce31f2c409eebc4eb072d.jpg">
