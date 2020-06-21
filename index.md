@@ -9,3 +9,5 @@ Charles Bronson war einer der großen charismatischen Filmstars, dessen Stoizism
 * durchsetzungsstark
 * willensfest
 * schweigsam
+
+> We do not make films for critics because they don't pay to see them anyway.
