@@ -4,8 +4,8 @@ Charles Bronson war einer der großen charismatischen Filmstars, dessen Stoizism
 
 ## Charakterzüge
 
-1. zielstrebig
-2. stoisch
-3. durchsetzungsstark
-4. willensfest
-5. schweigsam
+* zielstrebig
+* stoisch
+* durchsetzungsstark
+* willensfest
+* schweigsam
